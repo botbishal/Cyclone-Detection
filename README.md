@@ -183,7 +183,6 @@ Dependencies:
 ## 🔗 Resources
 
 - [YOLOv5 Repo](https://github.com/ultralytics/yolov5)
-- [PyTorch](https://pytorch.org/)
 - [NASA Cyclone Data](https://www.nasa.gov/)
 - [NOAA Hurricane Archive](https://www.nhc.noaa.gov/data/)
 - [TC-Satellite-DataSet](https://github.com/academy21/TC-Satellite-DataSet)
