@@ -45,9 +45,6 @@ Ensure Python 3.8+ is installed. Then:
 ```bash
 pip install -r requirements.txt
 ```
-
-For GPU training, install the appropriate [PyTorch with CUDA](https://pytorch.org/get-started/locally/).
-
 ---
 
 ## 🗂 Dataset Format
