@@ -26,7 +26,7 @@ cyclone-detection-/
 └── README.md                    # Project overview (this file)
 ```
 
-## **If you run it in Google Colab Then Only the file will be needed not this structure. It is for offline run.**
+## **If you run it in Google Colab Then Only this `Cyclone_Detection_using_YOLOv5` file will be needed not this structure. It is for offline run.**
 
 ## ⚙️ Setup Instructions
 
