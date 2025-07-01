@@ -156,8 +156,6 @@ Here’s an example of the cyclone detection results:
 Image → [Detected cyclone box(es)]
 ```
 
-![Sample Output](docs/sample_output.jpg)
-
 ![Validation_1_eec63f9f0e5fc793b9e9](https://github.com/user-attachments/assets/48f3ae2f-ed3c-4b24-bf21-81d383813399)
 
 ---
