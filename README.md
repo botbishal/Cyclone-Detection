@@ -198,7 +198,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📬 Contact
 
 - **Author**: Bishal Ray
-- **Email**: research.mca23b010@gmail.com
 - **GitHub**: [BotBishal](https://github.com/botbishal)
 
 ---
